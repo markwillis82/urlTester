@@ -1,0 +1,19 @@
+{
+  "name": "urlTester",
+  "version": "0.0.0",
+  "description": "test url redirects with a result and confirm they are working",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markwillis82/urlTester.git"
+  },
+  "dependencies": {
+	"request":"*",
+	"colors": "*"
+  },
+  "author": "Mark Willis",
+  "license": "BSD"
+}
